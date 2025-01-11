@@ -1,6 +1,6 @@
 ## Toward Realistic Camouflaged Object Detection: Benchmarks and Method
 
-<img src="https://user-images.githubusercontent.com/12907710/187674113-2074d658-f2fb-42d1-ac15-9c4a695e64d7.png"/>
+<img src="RCOD.png"/>
 
 
 ## Dataset Link
