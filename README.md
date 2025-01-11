@@ -10,12 +10,8 @@ Baidu: https://pan.baidu.com/s/11m8pSerp4hR6pMZMD7WiyQ?pwd=93yd    Extract Code:
 
 ## Framework install
 
-We adopt MMDetection as our baseline framework from https://github.com/open-mmlab/mmdetection
-
-MMDetection is an open source object detection toolbox based on PyTorch. It is
-a part of the [OpenMMLab](https://openmmlab.com/) project.
-
-Our code is based on mmdetection. Here, for the convenience of readers, we have uploaded the full code of mmdetection and our code. If the relevant environment for mmdetection is configured on your server, you can download and use it directly
+Our code is based on MMDetection. Here, for the convenience of readers, we have uploaded the full code of mmdetection and our code. If the relevant environment for mmdetection is configured on your server, you can download and use it directly.
+MMDetection is an open source object detection toolbox based on PyTorch. We adopt MMDetection as our baseline framework from https://github.com/open-mmlab/mmdetection
 
 The main branch works with **PyTorch 1.8+**.
 
