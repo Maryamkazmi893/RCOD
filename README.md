@@ -1,6 +1,9 @@
+## Toward Realistic Camouflaged Object Detection: Benchmarks and Method
 
+## Dataset Link
+Google:https://drive.google.com/drive/folders/1SafBDHRbutQ4D3yqDPOEmZY2u9Ip7Feh
+Baidu:
 
-## Introduction
 
 MMDetection is an open source object detection toolbox based on PyTorch. It is
 a part of the [OpenMMLab](https://openmmlab.com/) project.
