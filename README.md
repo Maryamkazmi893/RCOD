@@ -8,6 +8,12 @@ Google:https://drive.google.com/drive/folders/1SafBDHRbutQ4D3yqDPOEmZY2u9Ip7Feh
 
 Baidu: https://pan.baidu.com/s/11m8pSerp4hR6pMZMD7WiyQ?pwd=93yd    Extract Code: 93yd 
 
+| Datasets | Categories | Training Images | Test Images |
+| ---- | ---- | ---- | ---- |
+| COD10K-D | 68 | 6000 | 4000 |
+| NC4K-D | 37 | 2863 | 1227 |
+| CAMO-D | 43 | 744 | 497 |
+
 ## Framework install
 
 Our code is based on MMDetection. Here, for the convenience of readers, we have uploaded the full code of mmdetection and our code. If the relevant environment for mmdetection is configured on your server, you can download and use it directly.
