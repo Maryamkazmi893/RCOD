@@ -1,4 +1,4 @@
-_base_ = './glip_swin_tiny_mpc.py'
+_base_ = './glip_swin_tiny_cafr.py'
 
 model = dict(
     backbone=dict(
