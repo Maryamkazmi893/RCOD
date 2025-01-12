@@ -13,7 +13,15 @@ Baidu: https://pan.baidu.com/s/11m8pSerp4hR6pMZMD7WiyQ?pwd=93yd    Extract Code:
 Our code is based on MMDetection. Here, for the convenience of readers, we have uploaded the full code of mmdetection and our code. If the relevant environment for mmdetection is configured on your server, you can download and use it directly.
 MMDetection is an open source object detection toolbox based on PyTorch. We adopt MMDetection as our baseline framework from https://github.com/open-mmlab/mmdetection
 
-The main branch works with **PyTorch 1.8+**.
+### Environmental installation
+conda create -n RCOD python==3.9
+
+conda activate RCOD
+
+cd RCOD
+pip install -r requirements/build.txt
+pip install -v -e .  # or "python s
+
 
 
 
