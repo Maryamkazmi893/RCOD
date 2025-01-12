@@ -7,7 +7,7 @@ lang_model_name = '/home/xzm/xzm/GLIP-main/bert-base-uncased'
 
 model = dict(
     type='GLIP',
-    ######  MPC setting
+    ######  CAFR setting
     #It is not recommended to set both of backbone_gr and backbone_neck_gr values to True
     backbone_gr = True,   # only fine-tuning backbone
     backbone_neck_gr = False, # fine-tuning backbone and neck 
