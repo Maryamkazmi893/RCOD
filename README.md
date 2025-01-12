@@ -15,7 +15,8 @@ Baidu: https://pan.baidu.com/s/11m8pSerp4hR6pMZMD7WiyQ?pwd=93yd    Extract Code:
 | CAMO-D | 43 | 744 | 497 |
 
 Create directories for each dataset:
- ```bash mkdir -p dataset/COD10K-D 
+ ```
+         mkdir -p dataset/COD10K-D 
          mkdir -p dataset/NC4K-D
          mkdir -p dataset/CAMO-D
  ```  
