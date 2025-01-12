@@ -18,8 +18,7 @@ Baidu: https://pan.baidu.com/s/11m8pSerp4hR6pMZMD7WiyQ?pwd=93yd    Extract Code:
 
 ## Framework install
 
-Our code is based on MMDetection. Here, for the convenience of readers, we have uploaded the full code of mmdetection and our code. If the relevant environment for mmdetection is configured on your server, you can download and use it directly.
-MMDetection is an open source object detection toolbox based on PyTorch. We adopt MMDetection as our baseline framework from https://github.com/open-mmlab/mmdetection
+Our code is based on MMDetection. Here, for the convenience of readers, we have uploaded the full code of mmdetection and our code. If the relevant environment for mmdetection is configured on your server, you can download and use it directly. MMDetection is an open source object detection toolbox based on PyTorch. We adopt MMDetection as our baseline framework from [MMdetection](https://github.com/open-mmlab/mmdetection)
 
 
 **Our environmental installation**
@@ -36,12 +35,9 @@ MMDetection is an open source object detection toolbox based on PyTorch. We adop
 * pip install -r requirements/build.txt
 * pip install -v -e . 
 
+**Training**
 
-
-<details open>
-<summary>Major features</summary>
-
-- **Modular Design**
+We wrote the config files of the three datasets together, so the number of categories in the config file and the path of the dataset needed to be changed during training
 
 
 ## Citation
