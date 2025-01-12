@@ -1,5 +1,5 @@
 _base_ = [
-    './grounding_dino_swin-t_mpc.py',
+    './grounding_dino_swin-t_cafr.py',
 ]
 
 load_from = 'https://download.openmmlab.com/mmdetection/v3.0/grounding_dino/groundingdino_swinb_cogcoor_mmdet-55949c9c.pth'  # noqa
