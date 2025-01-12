@@ -36,13 +36,17 @@ Our code is based on MMDetection. Here, for the convenience of readers, we have 
 * pip install -r requirements/build.txt
 * pip install -v -e . 
 
-**Training**
+**Training on APG**
 
-We wrote the config files of the three datasets together, so the number of categories in the config file and the path of the dataset needed to be changed during training
+We wrote the config files of the three datasets together, so the number of categories in the config file and the path of the dataset needed to be changed during training.
 
   ```shell
   CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./tools/dist_train.sh "--config configs/glip/glip_atss_swin-t_a_fpn_dyhead_16xb2_ms-2x_funtune_coco.py --work-dir /home/output 4
   ```
+**Training on SFR**
+
+coming soon~
+
 
 ## Citation
 
