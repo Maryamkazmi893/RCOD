@@ -14,6 +14,12 @@ Baidu: https://pan.baidu.com/s/11m8pSerp4hR6pMZMD7WiyQ?pwd=93yd    Extract Code:
 | NC4K-D | 37 | 2863 | 1227 |
 | CAMO-D | 43 | 744 | 497 |
 
+Create directories for each dataset:
+ ```bash mkdir -p dataset/COD10K-D 
+         mkdir -p dataset/NC4K-D
+         mkdir -p dataset/CAMO-D
+ ```  
+
 ## Framework install
 
 Our code is based on MMDetection. Here, for the convenience of readers, we have uploaded the full code of mmdetection and our code. If the relevant environment for mmdetection is configured on your server, you can download and use it directly.
