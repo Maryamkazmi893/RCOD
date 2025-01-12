@@ -14,12 +14,7 @@ Baidu: https://pan.baidu.com/s/11m8pSerp4hR6pMZMD7WiyQ?pwd=93yd    Extract Code:
 | NC4K-D | 37 | 2863 | 1227 |
 | CAMO-D | 43 | 744 | 497 |
 
-Create directories for each dataset:
- ```
-         mkdir -p dataset/COD10K-D 
-         mkdir -p dataset/NC4K-D
-         mkdir -p dataset/CAMO-D
- ```  
+
 
 ## Framework install
 
