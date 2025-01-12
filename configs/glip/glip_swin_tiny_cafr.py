@@ -3,7 +3,7 @@ _base_ = [
     '../_base_/schedule_1x.py', '../_base_/default_runtime.py'
 ]
 load_from = 'https://download.openmmlab.com/mmdetection/v3.0/glip/glip_tiny_a_mmdet-b3654169.pth'  # noqa
-lang_model_name = '/home/xzm/xzm/GLIP-main/bert-base-uncased'
+lang_model_name = 'bert-base-uncased'
 
 model = dict(
     type='GLIP',
