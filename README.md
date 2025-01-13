@@ -1,7 +1,7 @@
 ## Toward Realistic Camouflaged Object Detection: Benchmarks and Method
 
-<img src="RCOD.png"/>
 
+<div align="center"><img src="RCOD.png" width="500"></div>
 
 ## Dataset Link
 [Google](https://drive.google.com/drive/folders/1SafBDHRbutQ4D3yqDPOEmZY2u9Ip7Feh) 
