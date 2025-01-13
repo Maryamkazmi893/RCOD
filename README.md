@@ -38,9 +38,9 @@ Our code is based on MMDetection. Here, for the convenience of readers, we have 
 
 **Training on APG**
 
-* We wrote the config files of the three datasets together, so the number of categories in the config file and the path of the dataset needed to be changed during training, including:
+* We provide the config files of the three datasets together, thus the number of categories in the config file and the path of the dataset needed to be changed during training. Here, data modification includs:
 ```
-  RCOD/mmdet/datasets/coco.py  \\
+  RCOD/mmdet/datasets/coco.py  
   RCOD/configs/_base_/coco_detection.py
 ```
 
