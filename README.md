@@ -58,8 +58,14 @@ coming soon~
 If you use this toolbox or benchmark in your research, please cite this project.
 
 ```
-@article{RCOD,
- 
+@misc{RCOD,
+      title={Toward Realistic Camouflaged Object Detection: Benchmarks and Method}, 
+      author={Zhimeng Xin and Tianxu Wu and Shiming Chen and Shuo Ye and Zijing Xie and Yixiong Zou and Xinge You and Yufei Guo},
+      year={2025},
+      eprint={2501.07297},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2501.07297}, 
 }
 ```
 
