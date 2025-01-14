@@ -55,7 +55,7 @@ coming soon~
 
 ## Citation
 
-If you use this toolbox or benchmark in your research, please cite this project.
+If you use this toolbox or benchmark datasets in your research, please cite this project.
 
 ```
 @misc{RCOD,
