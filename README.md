@@ -3,7 +3,7 @@
 
 <div align="center"><img src="RCOD.png" width="500"></div>
 
-## Dataset Link
+## Datasets with BBox and Classes Link (First Version) 
 [Google](https://drive.google.com/drive/folders/1SafBDHRbutQ4D3yqDPOEmZY2u9Ip7Feh) 
 
 [Baidu](https://pan.baidu.com/s/11m8pSerp4hR6pMZMD7WiyQ?pwd=93yd)  Extract Code: 93yd 
@@ -14,6 +14,23 @@
 | COD10K-D | 68 | 6000 | 4000 |
 | NC4K-D | 37 | 2863 | 1227 |
 | CAMO-D | 43 | 744 | 497 |
+
+## Datasets with BBox, Classes and Languages Link (Second Version) 
+
+**Legend:**
+- B-Boxes: Bounding Boxes
+- Pos-Classes: positive classes
+- Tr-Samples: training samples
+- Te-Samples: Test Samples
+
+| Dataset Type | Datasets | Category | Box | Description | B-Boxes | Pos-Classes | Languages | Tr-Samples | Te-Samples |
+|--------------|----------|----------|-----|-------------|---------|-------------|-----------|------------|------------|
+| COD | CHAMELEON  |  |  |  | - | - | - | - | 76 |
+| COD | CAMO  | ✓ |  |  | - | 8 | - | 1,000 | 250 |
+| COD | NC4K  |  |  |  | - | - | - | - | 4,121 |
+| COD | COD10K | ✓ | ✓ |  | 5,899 | 69 | - | 6,000 | 4,000 |
+| **RCOD** | COD10K-D | ✓ | ✓ | ✓ | 11,684 | 81 | 10,798 | 6,172 | 5,734 |
+| **RCOD** | RCOD-D | ✓ | ✓ | ✓ | 12,955 | 59 | 11,850 | 4,192 | 5,846 |
 
 
 
