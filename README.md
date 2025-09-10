@@ -38,7 +38,7 @@ New datasets will be provided after the paper is published.
 
 ## Framework install
 
-<div align="center"><img src="finetuing.png" width="500"></div>
+<div align="center"><img src="finetuning.png" width="500"></div>
 
 Our code is based on MMDetection. Here, for the convenience of readers, we have uploaded the full code of mmdetection and our code. If the relevant environment for mmdetection is configured on your server, you can download and use it directly. MMDetection is an open source object detection toolbox based on PyTorch. We adopt MMDetection as our baseline framework from [MMdetection](https://github.com/open-mmlab/mmdetection)
 
