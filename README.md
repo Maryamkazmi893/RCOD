@@ -1,7 +1,7 @@
 ## Toward Realistic Camouflaged Object Detection: Benchmarks and Method
 
 
-<div align="center"><img src="RCOD.png" width="500"></div>
+<div align="center"><img src="dataset.png" width="500"></div>
 
 ## Datasets with BBox and Classes Link (First Version) 
 [Google](https://drive.google.com/drive/folders/1SafBDHRbutQ4D3yqDPOEmZY2u9Ip7Feh) 
