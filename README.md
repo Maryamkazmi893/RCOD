@@ -57,7 +57,7 @@ Our code is based on MMDetection. Here, for the convenience of readers, we have 
 * pip install -r requirements/build.txt
 * pip install -v -e . 
 
-**Training on APG**
+**Training on CAFR**
 
 * We provide the config files of the three datasets together, thus the number of categories in the config file and the path of the dataset needed to be changed during training. Here, data modification includes:
 ```
@@ -69,9 +69,6 @@ Our code is based on MMDetection. Here, for the convenience of readers, we have 
   ```shell
   CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./tools/dist_train.sh "--config configs/glip/glip_swin_tiny_cafr.py --work-dir /home/output 4
   ```
-**Training on SFR**
-
-coming soon~
 
 
 ## Citation
